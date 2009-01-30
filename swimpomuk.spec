@@ -9,6 +9,7 @@ URL:		http://nepomuk.linbox.org/
 License:	LGPLv2
 Group:		Graphical desktop/KDE
 Summary:	KDE client for SWIM
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 %description
 SwimpomuK is a KDE client for the Mandriva issue and support forum server                                                   
 (SWIM). It allows to annotate, relate, and query issues and forum entries, thus                                              
