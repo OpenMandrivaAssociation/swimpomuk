@@ -2,7 +2,7 @@
 
 Name:		swimpomuk
 Version:	0.1
-Release:	%mkrel 0.%{svnrev}.1
+Release:	%mkrel 0.%{svnrev}.2
 Source:		%{name}-svn%{svnrev}.tar.bz2
 BuildRequires:	cmake kdelibs4-devel nepomuk-kde-devel kdebase4-devel kde4-macros
 URL:		http://nepomuk.linbox.org/
