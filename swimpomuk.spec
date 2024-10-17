@@ -5,7 +5,7 @@ Version:	0.1
 Release:	%mkrel 0.%{svnrev}.2
 Source:		%{name}-svn%{svnrev}.tar.bz2
 BuildRequires:	cmake kdelibs4-devel nepomuk-kde-devel kdebase4-devel kde4-macros
-URL:		http://nepomuk.linbox.org/
+URL:		https://nepomuk.linbox.org/
 License:	LGPLv2
 Group:		Graphical desktop/KDE
 Summary:	KDE client for SWIM
